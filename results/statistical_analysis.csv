@@ -1,0 +1,7 @@
+variable,data_used,test,statistic,dof,p_value,p_value_fdr_bh,cramers_v
+Dataset Category vs Conference,real used dataset instances,Chi-square,34.95308366075858,12.0,0.00047643338485727323,0.0004764333848572732,0.046627297253975436
+Dataset Category vs Year,real used dataset instances,Chi-square,519.80940539323,40.0,8.995467693463122e-85,1.1244334616828904e-84,0.1557220787328236
+Year vs Used Dataset Count,real used dataset instances,Spearman,0.9727272727272729,,5.14217704904919e-07,,
+Dataset Category vs Domain,exploded dataset-domain instances,Chi-square,2117.223302845053,52.0,0.0,0.0,0.22439370064085296
+Domain vs Conference,exploded dataset-domain instances,Chi-square,686.8744078374348,39.0,2.194848733790924e-119,5.487121834477309e-119,0.14758267036307662
+Domain vs Year,exploded dataset-domain instances,Chi-square,861.7635276914684,130.0,2.7261945773558814e-108,4.5436576289264685e-108,0.09054227002172789

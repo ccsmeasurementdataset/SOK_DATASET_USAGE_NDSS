@@ -1,0 +1,6 @@
+Conference,Papers,Applied computing,Computer systems organization,Computing methodologies,General and reference,Hardware,Human-centered computing,Information systems,Mathematics of computing,Networks,Security and privacy,Social and professional topics,Software and its engineering,Theory of computation,AvgDom,P50,P90
+CCS,562,12,12,125,6,2,15,31,5,29,539,33,30,15,1.52,1,2
+NDSS,666,9,27,264,2,8,52,77,3,79,665,3,83,7,1.92,2,2
+S&P,407,6,16,166,0,6,34,34,8,17,407,7,51,22,1.9,2,2
+USS,1081,6,34,412,9,6,110,118,10,69,1079,7,154,19,1.88,2,2
+Total,2716,33,89,967,17,22,211,260,26,194,2690,50,318,63,-,-,-

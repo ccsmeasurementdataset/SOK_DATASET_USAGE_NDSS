@@ -1,0 +1,7 @@
+field,total,correct,incorrect,accuracy,accuracy_percent
+name,8650,7626,1024,0.8816,88.16
+action,8650,7472,1178,0.8638,86.38
+category,8650,7213,1437,0.8339,83.39
+subcategory,8650,7093,1557,0.82,82.0
+reason,8650,7525,1125,0.8699,86.99
+OVERALL,43250,36929,6321,0.8538,85.38
