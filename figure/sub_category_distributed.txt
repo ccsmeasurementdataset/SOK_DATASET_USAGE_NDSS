@@ -1,0 +1,78 @@
+% ===================== FIGURE BODY =====================
+\begin{figure*}[t]
+\centering
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\pgfplotstabletypeset[
+    col sep=comma,
+    string type,
+    every head row/.style={before row=\hline, after row=\hline},
+    every last row/.style={after row=\hline},
+    /pgfplots/colormap={whiteblue}{
+        rgb255(0cm)=(255,255,255);
+        rgb255(1cm)=(0,0,180)
+    },
+    columns/subcategory/.style={column type=l},
+    columns/AI/.style={color cells={min=0,max=55}},
+    columns/Crypto/.style={color cells={min=0,max=55}},
+    columns/DB/.style={color cells={min=0,max=55}},
+    columns/HumanSoc/.style={color cells={min=0,max=55}},
+    columns/HCI/.style={color cells={min=0,max=55}},
+    columns/IDMM/.style={color cells={min=0,max=55}},
+    columns/ML/.style={color cells={min=0,max=55}},
+    columns/NetProt/.style={color cells={min=0,max=55}},
+    columns/NetSec/.style={color cells={min=0,max=55}},
+    columns/HW/.style={color cells={min=0,max=55}},
+    columns/SecServ/.style={color cells={min=0,max=55}},
+    columns/SoftApp/.style={color cells={min=0,max=55}},
+    columns/SoftOrg/.style={color cells={min=0,max=55}},
+    columns/SysSec/.style={color cells={min=0,max=55}},
+    columns/WWW/.style={color cells={min=0,max=55}}
+]{heatmap_data.csv}
+}
+
+\begin{tikzpicture}
+\begin{axis}[
+    hide axis,
+    scale only axis,
+    height=0pt,
+    width=5cm,
+    colormap={whiteblue}{
+        rgb255(0cm)=(255,255,255);
+        rgb255(1cm)=(0,0,180)
+    },
+    colorbar horizontal,
+    point meta min=0,
+    point meta max=55,
+    colorbar style={
+        width=5cm,
+        height=0.3cm,
+        xtick={0,10,20,30,40,50},
+        xlabel={Percentage (\%)},
+        xticklabel style={font=\tiny},
+        label style={font=\tiny}
+    }
+]
+\addplot [draw=none] coordinates {(0,0)};
+\end{axis}
+\end{tikzpicture}
+\caption{Heatmap of dataset subcategories across research domains. Cell values represent percentages; darker blue indicates a higher percentage. Sub-Domains:
+AI = Artificial Intelligence;
+Crypto = Cryptography;
+DB = Database and Storage Security;
+HumanSoc = Human and Societal Aspects of Security and Privacy;
+HCI = Human-Computer Interaction;
+IDMM = Intrusion/Anomaly Detection and Malware Mitigation;
+ML = Machine Learning;
+NetProt = Network Protocols;
+NetSec = Network Security;
+HW = Security in Hardware;
+SecServ = Security Services;
+SoftApp = Software and Application Security;
+SoftOrg = Software Organization and Properties;
+SysSec = Systems Security;
+WWW = World Wide Web.
+}
+\label{fig:subcategory_domain_heatmap}
+
+\end{figure*}

@@ -1,0 +1,53 @@
+\begin{table*}[t]
+\centering
+\caption{Codebook for motivations behind cybersecurity dataset creation.}
+\label{tab:dataset_motivation_codebook}
+\begin{tabular}{p{1cm} p{3cm} p{5.5cm} p{5.5cm}}
+\toprule
+\textbf{Code} & \textbf{Label} & \textbf{Explanation} & \textbf{Example} \\
+\midrule
+
+A & No publicly available dataset 
+& Lack of existing open datasets for the problem domain 
+& \textit{``To the best of our knowledge, there are no datasets that could be utilized for NLP-based machine learning to detect conflicting statements from cellular protocols.''} \\
+
+B & Outdated datasets 
+& Existing datasets are available but do not adequately represent the full range of scenarios, classes, environments, or conditions relevant to the problem.
+& \textit{``The limited coverage and outdated data of the Dark Web in previous studies motivated us to conduct an in-depth investigative study.''} \\
+
+C & Limited coverage 
+& Available datasets do not cover sufficient scenarios, classes, or diversity 
+& \textit{``To address this limitation, we constructed a custom dataset to evaluate CHAINFUZZ'' or ``Existing data sets for WiFi sensing based identification are severely limited in the number.''} \\
+
+D & Need for labeled data 
+& Existing datasets lack sufficient labeled or annotated data required for supervised learning, evaluation, or detailed analysis.
+& \textit{``First, a large annotated dataset is required to build highly accurate NLP models'' or ``We compile the first labeled Telegram propaganda dataset of group messages and channel comments.''} \\
+
+E & Domain-specific constraints 
+& Data is difficult to collect or obtain because of the domain’s inherent characteristics.
+& \textit{``Moreover, it is labor-intensive and time-consuming to collect data samples and manually label them to build datasets for low-resource ISAs...''} \\
+
+F & Need for large-scale data 
+& Existing datasets are insufficient in size or volume to adequately support analysis, evaluation, or modeling tasks.
+& \textit{``To the best of our knowledge, we collected the largest phishing dataset for evaluating phishing.''} \\
+
+G & New type of fraud or attack 
+& Dataset created to capture emerging or previously unseen threats 
+& \textit{``Creating this dataset, we develop a machine learning classifier that leverages the network timing discrepancies inherent to reverse proxy servers to detect the presence of MITM phishing....''} \\
+
+H & Need for synthetic data 
+& Dataset created using synthetic, simulated, generated, or augmented data when real-world data is limited or unsuitable.
+& \textit{``we created a synthetic dataset for evaluation on databases containing a large number of records, specifically 2 million.....''} \\
+
+
+I & Novel dataset 
+& Dataset created to address a previously unexplored problem or to be the first of its kind in a domain 
+& \textit{``To our knowledge, no prior multi-agent dataset combined mobile and infrastructure sensing.''} \\
+
+N & None 
+& No motivation given 
+& \textit{``No motivation given in paper''} \\
+
+\bottomrule
+\end{tabular}
+\end{table*}
