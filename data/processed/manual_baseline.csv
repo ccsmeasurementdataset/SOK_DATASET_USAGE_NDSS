@@ -1,4 +1,4 @@
-paper_title,conference,year,paper_type,dataset_name,action,category,subcategory
+paper_id,conference,year,paper_type,dataset_name,action,category,subcategory
 27 Years and 81 Million Opportunities Later Investigating the Use of Email Encryption for an Entire University,S&P,2022,created_only,Email Encryption Usage Dataset,created,user_and_organizational_characteristics,user_activities
 28 Blinks Later Tackling Practical Challenges of Eye Movement Biometrics.,CCS,2019,created_only,Eye Movement Dataset,created,user_and_organizational_characteristics,user_attributes
 3719027.3744787.pdf,CCS,2025,used_only,CIFAR-10,used,general_purpose_data_modalities,vision_based_datasets
