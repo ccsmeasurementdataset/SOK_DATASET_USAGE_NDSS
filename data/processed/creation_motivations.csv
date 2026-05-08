@@ -1,4 +1,4 @@
-paper_title,dataset_name,dataset_creation_reason_code,dataset_creation_reason_label,evidence,,conference,year
+paper_id,dataset_name,dataset_creation_reason_code,dataset_creation_reason_label,evidence,,conference,year
 27 Years and 81 Million Opportunities Later Investigating the Use of Email Encryption for an Entire University,Email Encryption Usage Dataset,I,Novel Dataset,"To the best of our knowledge, our work is the first scientific collection and evaluation of ground truth on the adoption of end-to-end email encryption.",,S&P,2022
 3719027.3744795.pdf,Self-collected datasets,"A, C","No publicly available dataset, Limited coverage",Considering that there are no public and comprehensive Tor datasets collected under different conditions.,,CCS,2025
 3719027.3744804.pdf,Real-world Traffic Dataset,F,Need for large-scale data,"Notably, we processed approximately 77.6 TB of real-world traffic data at a network gateway for pre-training.",,CCS,2025
