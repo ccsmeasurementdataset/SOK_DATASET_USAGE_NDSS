@@ -1,4 +1,4 @@
-title,conference,year,paper_type,dataset_name,action,category,subcategory
+paper_title,conference,year,paper_type,dataset_name,action,category,subcategory
 27 Years and 81 Million Opportunities Later Investigating the Use of Email Encryption for an Entire University,S&P,2022,created_only,Email Encryption Usage Dataset,created,user_and_organizational_characteristics,user_activities
 28 Blinks Later Tackling Practical Challenges of Eye Movement Biometrics.,CCS,2019,created_only,Eye Movement Dataset,created,user_and_organizational_characteristics,user_attributes
 3719027.3744787.pdf,CCS,2025,used_only,CIFAR-10,used,general_purpose_data_modalities,vision_based_datasets
@@ -445,7 +445,7 @@ title,conference,year,paper_type,dataset_name,action,category,subcategory
 3719027.3765196.pdf,CCS,2025,used_only,Enron email dataset,used,user_and_organizational_characteristics,user_activities
 3719027.3765196.pdf,CCS,2025,used_only,Hillary Clinton dataset,used,user_and_organizational_characteristics,user_activities
 3719027.3765197.pdf,CCS,2025,used_only,Malware PE,used,attacker_related,malware
-3719027.3765197.pdf,CCS,2025,used_only,APIGraph 2017‚Äì2018,used,macro_level_internet_characteristics,applications
+3719027.3765197.pdf,CCS,2025,used_only,APIGraph 2017âÃÃ¬2018,used,macro_level_internet_characteristics,applications
 3719027.3765197.pdf,CCS,2025,used_only,VirusShare 2018,used,macro_level_internet_characteristics,applications
 3719027.3765197.pdf,CCS,2025,used_only,CICIDS 2017,used,macro_level_internet_characteristics,network_traces
 3719027.3765197.pdf,CCS,2025,used_only,Virus-MNIST,used,attacker_related,malware
@@ -714,7 +714,7 @@ Aliasing Backdoor Attacks on Pre trained Models,USS,2023,used_only,CFP,used,user
 Aliasing Backdoor Attacks on Pre trained Models,USS,2023,used_only,TIMIT,used,general_purpose_data_modalities,audio_speech_datasets
 All your database are belong to us Characterizing Database Ransomware Attacks,NDSS,2025,both,LeakIX dataset,used,attacker_related,attacks
 All your database are belong to us Characterizing Database Ransomware Attacks,NDSS,2025,both,Honeypot infection dataset,created,attacker_related,attacks
-All Your DNS Records Point to Us Understanding the Security Threats of Dangling DNS Records.,CCS,2016,both,Apex domains in Alexa top 1M during 2010 ‚àº2016,used,macro_level_internet_characteristics,applications
+All Your DNS Records Point to Us Understanding the Security Threats of Dangling DNS Records.,CCS,2016,both,Apex domains in Alexa top 1M during 2010 âÃ Âº2016,used,macro_level_internet_characteristics,applications
 All Your DNS Records Point to Us Understanding the Security Threats of Dangling DNS Records.,CCS,2016,both,"Subdomains of top 10,000 general",used,macro_level_internet_characteristics,applications
 All Your DNS Records Point to Us Understanding the Security Threats of Dangling DNS Records.,CCS,2016,both,"Subdomains of top 2,700 .edu",used,macro_level_internet_characteristics,applications
 All Your DNS Records Point to Us Understanding the Security Threats of Dangling DNS Records.,CCS,2016,both,"Subdomains of top 1,700 .gov",used,macro_level_internet_characteristics,applications
@@ -967,8 +967,8 @@ Auditing Frameworks Need Resource Isolation A Systematic Study on the Super Prod
 Auditing Framework APIs via Inferred App side Security Specifications,USS,2023,both,Android AOSP ROMs,used,macro_level_internet_characteristics,applications
 Auditing Framework APIs via Inferred App side Security Specifications,USS,2023,both,Preloaded apps' UI blocks,created,macro_level_internet_characteristics,applications
 Auditing Framework APIs via Inferred App side Security Specifications,USS,2023,both,NLP-based sensitivity prediction dataset,created,general_purpose_data_modalities,textual_data_mining_datasets
-Auditory Eyesight Demystifying √é¬ºs Precision Keystroke Tracking Attacks on Unconstrained Keyboard Inputs,USS,2023,both,Keystroke Sound Dataset,created,user_and_organizational_characteristics,user_attributes
-Auditory Eyesight Demystifying √é¬ºs Precision Keystroke Tracking Attacks on Unconstrained Keyboard Inputs,USS,2023,both,Keystroke Localization Measurements,used,user_and_organizational_characteristics,user_attributes
+Auditory Eyesight Demystifying âÃ©Â¬Âºs Precision Keystroke Tracking Attacks on Unconstrained Keyboard Inputs,USS,2023,both,Keystroke Sound Dataset,created,user_and_organizational_characteristics,user_attributes
+Auditory Eyesight Demystifying âÃ©Â¬Âºs Precision Keystroke Tracking Attacks on Unconstrained Keyboard Inputs,USS,2023,both,Keystroke Localization Measurements,used,user_and_organizational_characteristics,user_attributes
 Augmented Shuffle Protocols for Accurate and Robust Frequency Estimation Under Differential Privacy,S&P,2025,used_only,CENSUS,used,user_and_organizational_characteristics,user_attributes
 Augmented Shuffle Protocols for Accurate and Robust Frequency Estimation Under Differential Privacy,S&P,2025,used_only,FourSquare,used,user_and_organizational_characteristics,user_activities
 Augmented Shuffle Protocols for Accurate and Robust Frequency Estimation Under Differential Privacy,S&P,2025,used_only,Localization dataset,used,general_purpose_data_modalities,sensor_behavioral_datasets
@@ -1311,8 +1311,8 @@ Being Transparent is Merely the Beginning Enforcing Purpose Limitation with Poly
 Being Transparent is Merely the Beginning Enforcing Purpose Limitation with Polynomial Approximation,USS,2024,used_only,Heart Disease Dataset,used,user_and_organizational_characteristics,user_attributes
 Being Transparent is Merely the Beginning Enforcing Purpose Limitation with Polynomial Approximation,USS,2024,used_only,Hypertension Dataset,used,user_and_organizational_characteristics,user_attributes
 Belt and suspenders or just red tape Investigating Early Artifacts and User Perceptions of IoT App Security Certification,USS,2024,created_only,User Survey,created,user_and_organizational_characteristics,user_attitudes
-Belt and suspenders or just red tape Investigating Early Artifacts and User Perceptions of IoT App Security Certification,USS,2024,created_only,Vulnerability Analysis of CertiÔ¨Åed Mobile-IoT Apps,created,macro_level_internet_characteristics,applications
-Belt and suspenders or just red tape Investigating Early Artifacts and User Perceptions of IoT App Security Certification,USS,2024,created_only,Vulnerability Analysis of Non-CertiÔ¨Åed Mobile-IoT Apps,created,macro_level_internet_characteristics,applications
+Belt and suspenders or just red tape Investigating Early Artifacts and User Perceptions of IoT App Security Certification,USS,2024,created_only,Vulnerability Analysis of CertiÃÂ¨Ãed Mobile-IoT Apps,created,macro_level_internet_characteristics,applications
+Belt and suspenders or just red tape Investigating Early Artifacts and User Perceptions of IoT App Security Certification,USS,2024,created_only,Vulnerability Analysis of Non-CertiÃÂ¨Ãed Mobile-IoT Apps,created,macro_level_internet_characteristics,applications
 Benchmarking Attacks on Learning with Errors,S&P,2025,both,LWE Benchmarking Dataset,created,macro_level_internet_characteristics,benchmarks
 Benchmarking Attacks on Learning with Errors,S&P,2025,both,Reduced LWE Samples,used,general_purpose_data_modalities,tabular_structured_datasets
 Bernoulli Honeywords,NDSS,2024,used_only,breached Chinese train-ticketing dataset,used,user_and_organizational_characteristics,user_attributes
@@ -1357,8 +1357,8 @@ Biosignal Authentication Considered Harmful Today,USS,2024,used_only,CEBSDB,used
 Biosignal Authentication Considered Harmful Today,USS,2024,used_only,BedBased,used,user_and_organizational_characteristics,user_attributes
 Biosignal Authentication Considered Harmful Today,USS,2024,used_only,MAHNOB-HCITagging,used,user_and_organizational_characteristics,user_attributes
 Birds of a Feather Flock Together How Set Bias Helps to Deanonymize You via Revealed Intersection Sizes,USS,2022,used_only,COVID-19 dataset of tested individuals in Israel,used,user_and_organizational_characteristics,user_attributes
-Birds of a Feather Flock Together How Set Bias Helps to Deanonymize You via Revealed Intersection Sizes,USS,2022,used_only,Taobao�s dataset of ad display/click records,used,user_and_organizational_characteristics,user_activities
-Birds of a Feather Flock Together How Set Bias Helps to Deanonymize You via Revealed Intersection Sizes,USS,2022,used_only,Tencent�s dataset of ad display records,used,user_and_organizational_characteristics,user_activities
+Birds of a Feather Flock Together How Set Bias Helps to Deanonymize You via Revealed Intersection Sizes,USS,2022,used_only,Taobaos dataset of ad display/click records,used,user_and_organizational_characteristics,user_activities
+Birds of a Feather Flock Together How Set Bias Helps to Deanonymize You via Revealed Intersection Sizes,USS,2022,used_only,Tencents dataset of ad display records,used,user_and_organizational_characteristics,user_activities
 Birthday Name and Bifacial security Understanding Passwords of Chinese Web Users,USS,2019,both,Chinese Password Dataset,created,user_and_organizational_characteristics,user_attributes
 Birthday Name and Bifacial security Understanding Passwords of Chinese Web Users,USS,2019,both,English Password Dataset,created,user_and_organizational_characteristics,user_attributes
 Birthday Name and Bifacial security Understanding Passwords of Chinese Web Users,USS,2019,both,Tianya,used,user_and_organizational_characteristics,user_attributes
@@ -2081,8 +2081,8 @@ DeepShuffle A Lightweight Defense Framework against Adversarial Fault Injection 
 DeepShuffle A Lightweight Defense Framework against Adversarial Fault Injection Attacks on Deep Neural Networks in Multi Tenant Cloud FPGA,S&P,2024,used_only,Google's Speech Command Dataset,used,general_purpose_data_modalities,audio_speech_datasets
 DeepSight Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection,NDSS,2022,used_only,Reddit dataset for November 2017,used,user_and_organizational_characteristics,user_activities
 DeepSight Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection,NDSS,2022,used_only,FLGuard-Benign,used,macro_level_internet_characteristics,network_traces
-DeepSight Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection,NDSS,2022,used_only,D¨IoT-Attack,used,attacker_related,attacks
-DeepSight Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection,NDSS,2022,used_only,D¨IoT-Benign,used,macro_level_internet_characteristics,network_traces
+DeepSight Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection,NDSS,2022,used_only,DÂ¨IoT-Attack,used,attacker_related,attacks
+DeepSight Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection,NDSS,2022,used_only,DÂ¨IoT-Benign,used,macro_level_internet_characteristics,network_traces
 DeepSight Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection,NDSS,2022,used_only,UNSW-Benign,used,macro_level_internet_characteristics,network_traces
 DeepSteal Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories,S&P,2022,used_only,CIFAR-10,used,general_purpose_data_modalities,vision_based_datasets
 DeepSteal Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories,S&P,2022,used_only,CIFAR-100,used,general_purpose_data_modalities,vision_based_datasets
@@ -2444,7 +2444,7 @@ Drops for Stuff An Analysis of Reshipping Mule Scams.,CCS,2015,created_only,Resh
 dRR A Decentralized Scalable and Auditable Architecture for RPKI Repository,NDSS,2024,both,RPKI Snapshot,used,macro_level_internet_characteristics,topology
 dRR A Decentralized Scalable and Auditable Architecture for RPKI Repository,NDSS,2024,both,Worldwide AS Administrators Survey,created,user_and_organizational_characteristics,user_attitudes
 DScope A Cloud Native Internet Telescope,USS,2023,both,DSCOPE Dataset,created,macro_level_internet_characteristics,network_traces
-DScope A Cloud Native Internet Telescope,USS,2023,both,Merit‚Äôs ORION telescope data,used,macro_level_internet_characteristics,network_traces
+DScope A Cloud Native Internet Telescope,USS,2023,both,MeritâÃÃ´s ORION telescope data,used,macro_level_internet_characteristics,network_traces
 Duumviri Detecting Trackers and Mixed Trackers with a Breakage Detector,NDSS,2025,both,Duumviri Breakage Samples,created,macro_level_internet_characteristics,adverse_events
 Duumviri Detecting Trackers and Mixed Trackers with a Breakage Detector,NDSS,2025,both,Mixed Request Trackers Dataset,created,attacker_related,attacks
 Duumviri Detecting Trackers and Mixed Trackers with a Breakage Detector,NDSS,2025,both,Non-Mixed Trackers Evaluation Dataset,used,attacker_related,attacks
@@ -3452,7 +3452,7 @@ Hindsight Understanding the Evolution of UI Vulnerabilities in Mobile Browsers.,
 Hitchhiking Vaccine Enhancing Botnet Remediation With Remote Code Deployment Reuse,NDSS,2025,both,Android malware sample dataset,created,attacker_related,malware
 Hitchhiking Vaccine Enhancing Botnet Remediation With Remote Code Deployment Reuse,NDSS,2025,both,VirusTotal malware sample dataset,used,attacker_related,malware
 Hoedur Embedded Firmware Fuzzing using Multi Stream Inputs,USS,2023,used_only,FUZZWARE target set,used,macro_level_internet_characteristics,applications
-Hoedur Embedded Firmware Fuzzing using Multi Stream Inputs,USS,2023,used_only,¬µEMU target set,used,macro_level_internet_characteristics,applications
+Hoedur Embedded Firmware Fuzzing using Multi Stream Inputs,USS,2023,used_only,Â¬ÂµEMU target set,used,macro_level_internet_characteristics,applications
 Holding Secrets Accountable Auditing Privacy Preserving Machine Learning,USS,2024,used_only,Adult Dataset,used,user_and_organizational_characteristics,user_attributes
 Holding Secrets Accountable Auditing Privacy Preserving Machine Learning,USS,2024,used_only,MNIST,used,general_purpose_data_modalities,vision_based_datasets
 Holding Secrets Accountable Auditing Privacy Preserving Machine Learning,USS,2024,used_only,CIFAR-10,used,general_purpose_data_modalities,vision_based_datasets
@@ -3514,7 +3514,7 @@ How Do Tor Users Interact With Onion Services,USS,2018,both,DNS queries dataset 
 How Do Tor Users Interact With Onion Services,USS,2018,both,Onion services user survey dataset,created,user_and_organizational_characteristics,user_activities
 How Do Tor Users Interact With Onion Services,USS,2018,both,Interview data from Tor and onion service users,created,user_and_organizational_characteristics,user_attitudes
 How Effective is Multiple Vantage Point Domain Control Validation,USS,2023,both,31 billion DNS queries dataset,created,macro_level_internet_characteristics,network_traces
-How Effective is Multiple Vantage Point Domain Control Validation,USS,2023,both,Let�s Encrypt certificates issuance logs,used,defender_artifacts,logs
+How Effective is Multiple Vantage Point Domain Control Validation,USS,2023,both,Lets Encrypt certificates issuance logs,used,defender_artifacts,logs
 How Effective is Multiple Vantage Point Domain Control Validation,USS,2023,both,CAIDA Internet topology data,used,macro_level_internet_characteristics,topology
 How Great is the Great Firewall Measuring Chinas DNS Censorship,USS,2021,both,GFWatch,created,macro_level_internet_characteristics,network_traces
 How Great is the Great Firewall Measuring Chinas DNS Censorship,USS,2021,both,Citizen Lab test lists (CLTL),used,macro_level_internet_characteristics,applications
@@ -3653,7 +3653,7 @@ Improving Real world Password Guessing Attacks via Bi directional Transformers,U
 Improving Real world Password Guessing Attacks via Bi directional Transformers,USS,2023,used_only,BreachCompilation (4iQ),used,general_purpose_data_modalities,textual_data_mining_datasets
 Improving Real world Password Guessing Attacks via Bi directional Transformers,USS,2023,used_only,Collection#1,used,user_and_organizational_characteristics,user_attributes
 Improving Robustness of ML Classifiers against Realizable Evasion Attacks Using Conserved Features,USS,2019,used_only,Contagio Archive,used,attacker_related,malware
-Improving the Ability of Thermal Radiation Based Hardware Trojan Detection,USS,2024,used_only,0.13 ¬µm Digital Signal Processing (DSP) chip thermal radiation data,used,general_purpose_data_modalities,sensor_behavioral_datasets
+Improving the Ability of Thermal Radiation Based Hardware Trojan Detection,USS,2024,used_only,0.13 Â¬Âµm Digital Signal Processing (DSP) chip thermal radiation data,used,general_purpose_data_modalities,sensor_behavioral_datasets
 Improving the Robustness of Transformer based Large Language Models with Dynamic Attention,NDSS,2024,used_only,Amazon,used,general_purpose_data_modalities,textual_data_mining_datasets
 Improving the Robustness of Transformer based Large Language Models with Dynamic Attention,NDSS,2024,used_only,Twitter Dataset,used,user_and_organizational_characteristics,user_activities
 Improving the Robustness of Transformer based Large Language Models with Dynamic Attention,NDSS,2024,used_only,Enron email dataset,used,user_and_organizational_characteristics,user_activities
@@ -3889,10 +3889,10 @@ Kairos Practical Intrusion Detection and Investigation using Whole system Proven
 Kairos Practical Intrusion Detection and Investigation using Whole system Provenance,S&P,2024,used_only,DARPA E5-CLEARSCOPE,used,defender_artifacts,logs
 Kairos Practical Intrusion Detection and Investigation using Whole system Provenance,S&P,2024,used_only,DARPA OpTC,used,defender_artifacts,logs
 Kairos Practical Intrusion Detection and Investigation using Whole system Provenance,S&P,2024,used_only,Manzoor et al. Dataset,used,defender_artifacts,logs
-Kal√é¬µido Real Time Privacy Control for Eye Tracking Systems,USS,2021,used_only,Natural Eye Movement Dataset,used,user_and_organizational_characteristics,user_attributes
-Kal√é¬µido Real Time Privacy Control for Eye Tracking Systems,USS,2021,used_only,Web Page Eye Movement Dataset,used,user_and_organizational_characteristics,user_attributes
-Kal√é¬µido Real Time Privacy Control for Eye Tracking Systems,USS,2021,used_only,Human Eye Movement Dataset,used,user_and_organizational_characteristics,user_attributes
-Kal√é¬µido Real Time Privacy Control for Eye Tracking Systems,USS,2021,used_only,VR Video Eye Movement Dataset,used,user_and_organizational_characteristics,user_attributes
+KalâÃ©Â¬Âµido Real Time Privacy Control for Eye Tracking Systems,USS,2021,used_only,Natural Eye Movement Dataset,used,user_and_organizational_characteristics,user_attributes
+KalâÃ©Â¬Âµido Real Time Privacy Control for Eye Tracking Systems,USS,2021,used_only,Web Page Eye Movement Dataset,used,user_and_organizational_characteristics,user_attributes
+KalâÃ©Â¬Âµido Real Time Privacy Control for Eye Tracking Systems,USS,2021,used_only,Human Eye Movement Dataset,used,user_and_organizational_characteristics,user_attributes
+KalâÃ©Â¬Âµido Real Time Privacy Control for Eye Tracking Systems,USS,2021,used_only,VR Video Eye Movement Dataset,used,user_and_organizational_characteristics,user_attributes
 Karonte Detecting Insecure Multi binary Interactions in Embedded Firmware,S&P,2020,both,53 current-version firmware samples,created,macro_level_internet_characteristics,applications
 Karonte Detecting Insecure Multi binary Interactions in Embedded Firmware,S&P,2020,both,899 firmware samples from Firmadyne,used,macro_level_internet_characteristics,applications
 Karonte Detecting Insecure Multi binary Interactions in Embedded Firmware,S&P,2020,both,BootStomp dataset,used,macro_level_internet_characteristics,applications
@@ -3911,7 +3911,7 @@ KextFuzz Fuzzing macOS Kernel EXTensions on Apple Silicon via Exploiting Mitigat
 Khaleesi Breaker of Advertising and Tracking Request Chains,USS,2022,both,KHALEESI Request Chain Dataset,created,macro_level_internet_characteristics,network_traces
 Khaleesi Breaker of Advertising and Tracking Request Chains,USS,2022,both,Crawled Dataset from OpenWPM,used,macro_level_internet_characteristics,network_traces
 Khaleesi Breaker of Advertising and Tracking Request Chains,USS,2022,both,Ground Truth of Advertising and Tracking Request Chains,used,defender_artifacts,configurations
-KHyperLogLog Estimating Reidentifiability and Joinability of Large Data at Scale.,NDSS,2023,used_only,NetÔ¨Çix Prize data set,used,user_and_organizational_characteristics,user_activities
+KHyperLogLog Estimating Reidentifiability and Joinability of Large Data at Scale.,NDSS,2023,used_only,NetÃÂ¨Ãix Prize data set,used,user_and_organizational_characteristics,user_activities
 KHyperLogLog Estimating Reidentifiability and Joinability of Large Data at Scale.,NDSS,2023,used_only,2010 US Census,used,user_and_organizational_characteristics,user_attributes
 Kiss from a Rogue Evaluating Detectability of Pay at the Pump Card Skimmers.,S&P,2019,used_only,Florida Department of Agriculture and Consumer Services Skimmer Reports,used,attacker_related,attacks
 Kitsune An Ensemble of Autoencoders for Online Network Intrusion Detection,NDSS,2018,both,IoT network dataset,created,macro_level_internet_characteristics,network_traces
@@ -5914,7 +5914,7 @@ Secure Multi party Computation of Differentially Private Median,USS,2020,used_on
 Secure Multi party Computation of Differentially Private Median,USS,2020,used_only,Credit card transactions,used,user_and_organizational_characteristics,user_activities
 Secure parallel computation on national scale volumes of data,USS,2020,both,MovieLens,used,user_and_organizational_characteristics,user_activities
 Secure parallel computation on national scale volumes of data,USS,2020,both,Matrix Factorization Dataset,created,user_and_organizational_characteristics,user_activities
-Secure Poisson Regression,USS,2022,used_only,Somoza�s data on infant and child survival in Colombia,used,user_and_organizational_characteristics,user_attributes
+Secure Poisson Regression,USS,2022,used_only,Somozas data on infant and child survival in Colombia,used,user_and_organizational_characteristics,user_attributes
 Secure Poisson Regression,USS,2022,used_only,Time to Ph.D. data,used,user_and_organizational_characteristics,user_attributes
 Secure Poisson Regression,USS,2022,used_only,Data on the three-year survival status of breast-cancer patients,used,user_and_organizational_characteristics,user_attributes
 Secure Sublinear Time Differentially Private Median Computation,NDSS,2020,used_only,Open Payments 2017 data set,used,user_and_organizational_characteristics,user_attributes
@@ -6886,7 +6886,7 @@ Tossing in the Dark Practical Bit Flipping on Gray box Deep Neural Networks for 
 Toss a Fault to Your Witcher Applying Grey box Coverage Guided Mutational Fuzzing to Detect SQL and Command Injection Vulnerabilities,S&P,2023,both,Dataset of web applications,created,macro_level_internet_characteristics,applications
 Toss a Fault to Your Witcher Applying Grey box Coverage Guided Mutational Fuzzing to Detect SQL and Command Injection Vulnerabilities,S&P,2023,both,OpenEMR SQL vulnerabilities dataset,used,attacker_related,vulnerabilities
 Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses.,S&P,2020,created_only,HOME corpus,created,user_and_organizational_characteristics,user_activities
-Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses.,S&P,2020,created_only,Hœµlion framework data,created,user_and_organizational_characteristics,user_activities
+Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses.,S&P,2020,created_only,HÅÂµlion framework data,created,user_and_organizational_characteristics,user_activities
 Towards Attribution in Mobile Markets Identifying Developer Account Polymorphism.,CCS,2020,used_only,GooglePlay,used,macro_level_internet_characteristics,applications
 Towards Attribution in Mobile Markets Identifying Developer Account Polymorphism.,CCS,2020,used_only,Tacyt,used,macro_level_internet_characteristics,applications
 Towards Automated Safety Vetting of PLC Code in Real World Plants.,S&P,2019,created_only,Data Traces from Industrial Control System Testbeds,created,defender_artifacts,logs
@@ -6980,7 +6980,7 @@ Towards Measuring the Effectiveness of Telephony Blacklists,NDSS,2018,both,Crowd
 Towards Measuring the Effectiveness of Telephony Blacklists,NDSS,2018,both,Honeypot call transcripts (HCT),created,attacker_related,attacks
 Towards More Practical Threat Models in Artificial Intelligence Security,USS,2024,created_only,Survey Dataset of AI Practitioners,created,user_and_organizational_characteristics,user_activities
 Towards More Robust Keyword Spotting for Voice Assistants,USS,2022,both,Google's Speech Commands dataset,used,general_purpose_data_modalities,audio_speech_datasets
-Towards More Robust Keyword Spotting for Voice Assistants,USS,2022,both,dataset of the Amazon Echo�s wake keywords,created,general_purpose_data_modalities,audio_speech_datasets
+Towards More Robust Keyword Spotting for Voice Assistants,USS,2022,both,dataset of the Amazon Echos wake keywords,created,general_purpose_data_modalities,audio_speech_datasets
 Towards Plausible Graph Anonymization,NDSS,2020,used_only,Enron email dataset,used,user_and_organizational_characteristics,user_activities
 Towards Plausible Graph Anonymization,NDSS,2020,used_only,New Orleans Facebook Dataset,used,user_and_organizational_characteristics,user_activities
 Towards Plausible Graph Anonymization,NDSS,2020,used_only,SNAP Survey Dataset,used,user_and_organizational_characteristics,user_activities
@@ -7281,9 +7281,9 @@ Understand Users Privacy Perception and Decision of V2X Communication in Connect
 Understand Users Privacy Perception and Decision of V2X Communication in Connected Autonomous Vehicles,USS,2023,created_only,Online Study on Privacy Perception in CAVs,created,user_and_organizational_characteristics,user_attitudes
 Under the Hood of DANE Mismanagement in SMTP,USS,2022,created_only,DNS records and certificates,created,macro_level_internet_characteristics,topology
 Under the Hood of DANE Mismanagement in SMTP,USS,2022,created_only,Survey of DANE administrators,created,user_and_organizational_characteristics,user_attitudes
-Unearthing Stealthy Program Attacks Buried in Extremely Long Execution Paths.,CCS,2015,both,Normal ProÔ¨Åles for sshd,used,defender_artifacts,logs
-Unearthing Stealthy Program Attacks Buried in Extremely Long Execution Paths.,CCS,2015,both,Normal ProÔ¨Åles for libpcre,used,defender_artifacts,logs
-Unearthing Stealthy Program Attacks Buried in Extremely Long Execution Paths.,CCS,2015,both,Normal ProÔ¨Åles for sendmail,used,defender_artifacts,logs
+Unearthing Stealthy Program Attacks Buried in Extremely Long Execution Paths.,CCS,2015,both,Normal ProÃÂ¨Ãles for sshd,used,defender_artifacts,logs
+Unearthing Stealthy Program Attacks Buried in Extremely Long Execution Paths.,CCS,2015,both,Normal ProÃÂ¨Ãles for libpcre,used,defender_artifacts,logs
+Unearthing Stealthy Program Attacks Buried in Extremely Long Execution Paths.,CCS,2015,both,Normal ProÃÂ¨Ãles for sendmail,used,defender_artifacts,logs
 Unearthing Stealthy Program Attacks Buried in Extremely Long Execution Paths.,CCS,2015,both,Attack Traces for sshd,created,attacker_related,attacks
 Unearthing Stealthy Program Attacks Buried in Extremely Long Execution Paths.,CCS,2015,both,ReDoS Attack Attempts for libpcre,created,attacker_related,attacks
 Unearthing Stealthy Program Attacks Buried in Extremely Long Execution Paths.,CCS,2015,both,Directory Harvest Attack Attempts for sendmail,created,attacker_related,attacks
